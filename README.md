@@ -1,19 +1,3 @@
-# Dijkstra's Shortest Path Algorithm Implementation
-
-This C++ program is an implementation of Dijkstra's algorithm for finding the shortest path in a directed graph. It allows you to calculate the shortest path between a source and destination node within the graph. Below is a README to help you understand and use the program effectively.
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Usage](#usage)
-  - [Input Format](#input-format)
-  - [Running the Program](#running-the-program)
-- [Algorithm Explanation](#algorithm-explanation)
-- [Assumptions](#assumptions)
-- [Code Structure](#code-structure)
-- [Improvements](#improvements)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
