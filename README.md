@@ -28,7 +28,7 @@ The program expects the following input format:
 
 2. Run the compiled program:
    ```sh
-   ./dijkstra
+   ./dijkstra >input.txt
    ```
 
 3. Follow the prompts to input the graph structure, source node, and destination node.
